@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957533345799",
+    "project_id": "remote-c181a",
+    "storage_bucket": "remote-c181a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957533345799:android:6a05a6161b73b6fa5232a2",
+        "android_client_info": {
+          "package_name": "com.example.deep_linking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86nj3pf-d0-sAg8TQ_9uAw-XirHsnFG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
